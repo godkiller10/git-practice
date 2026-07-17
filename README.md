@@ -1,1 +1,2 @@
-# git-practice
+Objective: This exercise walks you through a complete Git/GitHub workflow end-to-end — creating a GitHub repo, adding a C++ file (main.cpp) to it, cloning that repo to your local machine, editing the file locally, and pushing your changes back to GitHub.
+Outcome: By the end, your GitHub repository should contain an updated main.cpp with your own Name, Student ID, Section, and one extra field of your choice — showing a full clone → edit → add → commit → push cycle. Along the way, you'll get hands-on practice with six core commands: git clone, git status, git diff, git add, git commit, and git push.
